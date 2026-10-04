@@ -1,0 +1,71 @@
+{
+  "updated_at": "2026-10-04T10:45:00+07:00",
+  "sources": [
+    {
+      "name": "重生！丑小鸭逆袭成了万人迷",
+      "genre": "Trọng sinh / nghịch tập",
+      "platform": "Bilibili",
+      "source_type": "UGC",
+      "watermark": "Có",
+      "rank": "2",
+      "updated": "2026-10-04",
+      "note": "Nguồn PC public đã test yt-dlp; có watermark uploader/Bilibili trong hình.",
+      "url": "https://www.bilibili.com/video/BV1TqaR6EEso/"
+    },
+    {
+      "name": "重生！丑小鸭逆袭成了万人迷",
+      "genre": "Trọng sinh / nghịch tập",
+      "platform": "iQIYI",
+      "source_type": "Official",
+      "watermark": "Không rõ",
+      "rank": "2",
+      "updated": "2026-10-04",
+      "note": "Trang chính thức để đối chiếu nguồn; có thể dùng DRM nên không mặc định tải được.",
+      "url": "https://www.iqiyi.com/a_17uo281qgp5.html"
+    },
+    {
+      "name": "家有五女，穿越来的他连夜搞事业啦",
+      "genre": "Xuyên không / kinh doanh",
+      "platform": "Bilibili",
+      "source_type": "UGC",
+      "watermark": "Không rõ",
+      "rank": "8",
+      "updated": "2026-10-04",
+      "note": "Bilibili multi-part; phù hợp chế độ Series.",
+      "url": "https://www.bilibili.com/video/BV1bjac6AEhB/"
+    },
+    {
+      "name": "穿越六零之我在山洞闷声发家",
+      "genre": "Xuyên không / sinh tồn / làm giàu",
+      "platform": "Bilibili",
+      "source_type": "UGC",
+      "watermark": "Không rõ",
+      "rank": "4",
+      "updated": "2026-10-04",
+      "note": "Nguồn PC public để nghiên cứu/trích tư liệu review.",
+      "url": "https://www.bilibili.com/video/BV1x8aq6FENd/"
+    },
+    {
+      "name": "万妖图录传 第十三季",
+      "genre": "Huyền huyễn / tiên hiệp",
+      "platform": "Bilibili",
+      "source_type": "UGC",
+      "watermark": "Không rõ",
+      "rank": "1",
+      "updated": "2026-10-04",
+      "note": "Nguồn Bilibili public; dùng Phân tích trước khi tải.",
+      "url": "https://www.bilibili.com/video/BV1zsYc6DEGN/"
+    },
+    {
+      "name": "大唐憨婿之我姐姐是太子妃 第二季",
+      "genre": "Cổ trang / xuyên không / quyền mưu",
+      "platform": "Bilibili",
+      "source_type": "UGC",
+      "watermark": "Không rõ",
+      "rank": "9",
+      "updated": "2026-10-04",
+      "note": "Nguồn Season 2 đã tìm thấy trên Bilibili.",
+      "url": "https://www.bilibili.com/video/BV11feF6aEw4/"
+    }
+  ]
+}
