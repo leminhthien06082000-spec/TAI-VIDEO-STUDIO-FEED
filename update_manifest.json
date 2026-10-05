@@ -1,6 +1,6 @@
 {
-  "version": "1.8.0",
-  "zip_url": "https://raw.githubusercontent.com/leminhthien06082000-spec/TAI-VIDEO-STUDIO-FEED/main/TAI_VIDEO_STUDIO_UPDATE_1.8.0.zip",
-  "sha256": "7251c82a5cd0f22e466ac1f74034200059fce86b1447e18d256a02beb61425c5",
-  "notes": "V1.8 Production QC: thêm Preserve BGM/SFX Lite không cần model AI; Source Quality Gate; tạo NEEDS_REWRITE.csv cho câu >1.25x; Auto Mute vẫn là fallback."
+  "version": "1.9.0",
+  "zip_url": "https://raw.githubusercontent.com/leminhthien06082000-spec/TAI-VIDEO-STUDIO-FEED/main/TAI_VIDEO_STUDIO_UPDATE_1.9.0.zip",
+  "sha256": "1732afa94960d5145875457df09e6dcce37b294a4932f173ac40e20546207ccb",
+  "notes": "V1.9 Hybrid Cinematic Audio: CDX23 tách speech/music/SFX theo chunk 5 phút, bỏ thoại Trung, giữ music+SFX và duck nền 32% khi Eleven nói; TTS cache tiết kiệm credit; Full QC block khi >1.25x; fix Source QC."
 }
