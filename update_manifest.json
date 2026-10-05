@@ -1,6 +1,6 @@
 {
-  "version": "1.9.2",
-  "zip_url": "https://raw.githubusercontent.com/leminhthien06082000-spec/TAI-VIDEO-STUDIO-FEED/main/TAI_VIDEO_STUDIO_UPDATE_1.9.2.zip",
-  "sha256": "e4bc41ac501cb1e2a6c662935f02c55849cee4050fea72e8b8c5e938b0c040c9",
-  "notes": "V1.9.2 Speech-Stem Sidechain: speech stem CDX23 chỉ làm cảm biến duck, music+SFX giữ tự nhiên hơn; sidechaincompress động trong cửa sổ thoại; loudnorm -16 LUFS/TP -1.5; cache cinematic TEST; updater dừng process cũ + cargo check trước restart."
+  "version": "1.9.3",
+  "zip_url": "https://raw.githubusercontent.com/leminhthien06082000-spec/TAI-VIDEO-STUDIO-FEED/main/TAI_VIDEO_STUDIO_UPDATE_1.9.3.zip",
+  "sha256": "2d226e7e1b3bc4148a88808ad66fc166b5ccec6aa0c673f4969052650b4c7862",
+  "notes": "V1.9.3 Speech-Band Sidechain: chỉ duck dải MID 250–5000 Hz theo speech stem; LOW/HIGH giữ tự nhiên hơn; threshold 0.008 ratio 40; final loudnorm -16 LUFS TP -2.5 + limiter -2.5 dBFS để chừa headroom cho AAC."
 }
