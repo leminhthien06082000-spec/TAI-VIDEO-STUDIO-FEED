@@ -1,6 +1,6 @@
 {
-  "version": "1.7.0",
-  "zip_url": "https://raw.githubusercontent.com/leminhthien06082000-spec/TAI-VIDEO-STUDIO-FEED/main/TAI_VIDEO_STUDIO_UPDATE_1.7.0.zip",
-  "sha256": "6abf9870c070271ffe5d3c5456e98db0aa2a4422e7f5f9f02beb9e0117639841",
-  "notes": "V1.7: Auto Mute tiếng gốc theo timestamp SRT. Trong lúc có voice Việt: tiếng gốc 0%; ngoài thoại: 100%. Có test 10/30 câu và draft test được cắt ngắn để QC nhanh."
+  "version": "1.8.0",
+  "zip_url": "https://raw.githubusercontent.com/leminhthien06082000-spec/TAI-VIDEO-STUDIO-FEED/main/TAI_VIDEO_STUDIO_UPDATE_1.8.0.zip",
+  "sha256": "7251c82a5cd0f22e466ac1f74034200059fce86b1447e18d256a02beb61425c5",
+  "notes": "V1.8 Production QC: thêm Preserve BGM/SFX Lite không cần model AI; Source Quality Gate; tạo NEEDS_REWRITE.csv cho câu >1.25x; Auto Mute vẫn là fallback."
 }
