@@ -1,6 +1,6 @@
 {
-  "version": "1.5.0",
-  "zip_url": "https://raw.githubusercontent.com/leminhthien06082000-spec/TAI-VIDEO-STUDIO-FEED/main/TAI_VIDEO_STUDIO_UPDATE_1.5.0.zip",
-  "sha256": "56a51a774a29d21ac4117d39bdae740b77f2d64e8baed5ae475beaa23d735c23",
-  "notes": "V1.5: thêm Thời lượng từng phim vào Nguồn phim; nút Cập nhật thống kê cập nhật Lượt xem + Ngày đăng + Thời lượng; cải thiện thời lượng cho series/anthology."
+  "version": "1.6.0",
+  "zip_url": "https://raw.githubusercontent.com/leminhthien06082000-spec/TAI-VIDEO-STUDIO-FEED/main/TAI_VIDEO_STUDIO_UPDATE_1.6.0.zip",
+  "sha256": "b75ff81407ccefb0dab11a958222d67ac30486685804baed9ef7200ad53df2d4",
+  "notes": "V1.6: Dub Sync One Voice Eleven v4. Chọn project + SRT Việt, tạo voice từng timestamp, hạ tiếng gốc và xuất DRAFT_DUB_SYNC.mp4. Mặc định Test 10 câu đầu để tiết kiệm credit."
 }
