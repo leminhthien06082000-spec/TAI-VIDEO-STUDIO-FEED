@@ -1,6 +1,6 @@
 {
   "version": "1.6.0",
   "zip_url": "https://raw.githubusercontent.com/leminhthien06082000-spec/TAI-VIDEO-STUDIO-FEED/main/TAI_VIDEO_STUDIO_UPDATE_1.6.0.zip",
-  "sha256": "b75ff81407ccefb0dab11a958222d67ac30486685804baed9ef7200ad53df2d4",
-  "notes": "V1.6: Dub Sync One Voice Eleven v4. Chọn project + SRT Việt, tạo voice từng timestamp, hạ tiếng gốc và xuất DRAFT_DUB_SYNC.mp4. Mặc định Test 10 câu đầu để tiết kiệm credit."
+  "sha256": "b3d19c9b91a92a8f374f29a7659bc42f7cf99b68ccfa4fbb18421a59a6f8c32b",
+  "notes": "V1.6 fixed: Dub Sync One Voice Eleven v4. Bản ZIP đã sửa lỗi compile Rust."
 }
