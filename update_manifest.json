@@ -1,6 +1,6 @@
 {
-  "version": "1.9.3",
-  "zip_url": "https://raw.githubusercontent.com/leminhthien06082000-spec/TAI-VIDEO-STUDIO-FEED/main/TAI_VIDEO_STUDIO_UPDATE_1.9.3.zip",
-  "sha256": "2d226e7e1b3bc4148a88808ad66fc166b5ccec6aa0c673f4969052650b4c7862",
-  "notes": "V1.9.3 Speech-Band Sidechain: chỉ duck dải MID 250–5000 Hz theo speech stem; LOW/HIGH giữ tự nhiên hơn; threshold 0.008 ratio 40; final loudnorm -16 LUFS TP -2.5 + limiter -2.5 dBFS để chừa headroom cho AAC."
+  "version": "1.9.4",
+  "zip_url": "https://raw.githubusercontent.com/leminhthien06082000-spec/TAI-VIDEO-STUDIO-FEED/main/TAI_VIDEO_STUDIO_UPDATE_1.9.4.zip",
+  "sha256": "6fc426c81037ce3d6756a3a84e0eb6df8e2b0705febaa2fb4066f89ba3014740",
+  "notes": "V1.9.4 SRT/Voice Identity Fix: giữ nguyên tên SRT khi chọn, nhớ SRT active qua ACTIVE_SRT.json, UI hiện rõ file đang dùng, cache Eleven v4 tách theo từng SRT, có nút xóa cache voice, output Draft/Voice/Report mang tên SRT."
 }
